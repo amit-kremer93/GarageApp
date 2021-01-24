@@ -1,0 +1,4 @@
+include ':GarageClientApp'
+include ':GarageOwnerApp'
+include ':app'
+rootProject.name = "HW2Garage"
